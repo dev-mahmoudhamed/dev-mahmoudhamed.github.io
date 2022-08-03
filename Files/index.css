@@ -41,9 +41,9 @@ h1 {
     width: 400px;
     font-size: 40;
     border-radius: 8px;
-    margin: auto;
-    padding-left: 30%;
-    padding-right: 30%;
+    margin: 0 auto;
+    padding-left: 25%;
+    padding-right: 25%;
 }
 
 .topnav {
@@ -52,7 +52,7 @@ h1 {
     overflow: hidden;
     background-color: white;
     max-width: 50%;
-    margin: auto;
+    margin: 0 auto;
     border-radius: 8px;
     padding-left: 20%;
     padding-right: 25%;
