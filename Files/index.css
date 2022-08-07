@@ -9,13 +9,10 @@
 .nav-bar {
     text-align: center;
     font-size: 24px;
-    padding: 20px 5em;
 }
 
 .nav-bar a {
-    padding: 2rem 1rem;
-    margin: 2rem 1rem;
-    text-indent: 50px;
+    margin: 8rem 4rem;
 }
 
 body a,
