@@ -25,10 +25,9 @@ p {
 
 .paragraph {
     text-align: center;
-    max-width: 20%;
-    display: inline;
+    max-width: 50%;
+    display: inline-block;
     font-size: 26px;
-    font-weight: 500;
 }
 
 .social-icons a {
