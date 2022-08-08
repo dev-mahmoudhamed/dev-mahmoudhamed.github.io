@@ -29,13 +29,15 @@ h1,p {
     padding-left: 4rem;
 }
 .paragraph {
-    padding-left: 4rem;
+    padding-left: 2rem;
     text-align: center;
     max-width: 60%;
     display: inline-block;
     font-size: 26px;
 }
-
+.social-icons {
+    padding-left: 5rem;
+}
 .social-icons a {
     color: black;
     padding: 0 1rem;
