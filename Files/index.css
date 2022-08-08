@@ -7,12 +7,13 @@
 }
 
 .nav-bar {
+    padding-left: 6rem;
     text-align: center;
     font-size: 24px;
 }
 
 .nav-bar a {
-    margin: 8rem 4rem;
+    margin: 8rem 2rem;
 }
 
 body a,
@@ -23,9 +24,14 @@ p {
     color: black;
 }
 
+h1,p {
+    display: block;
+    padding-left: 4rem;
+}
 .paragraph {
+    padding-left: 4rem;
     text-align: center;
-    max-width: 50%;
+    max-width: 60%;
     display: inline-block;
     font-size: 26px;
 }
@@ -41,4 +47,5 @@ p {
     height: 170px;
     border-radius: 50%;
     margin: 3rem 41%;
+    display: inline;
 }
