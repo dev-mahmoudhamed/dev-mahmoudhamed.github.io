@@ -1,12 +1,6 @@
-.pb1 {
-    padding-bottom: 0.5rem;
-}
-
 .h1 {
     font-size: 2rem;
-}
-
-.bb {
+    padding-bottom: 0.5rem;
     border-bottom: 3px solid;
 }
 
